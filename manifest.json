@@ -1,0 +1,17 @@
+
+{
+  "short_name": "PharmaAI",
+  "name": "PharmaAI - Evolução Farmacêutica",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/822/822143.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#1e40af",
+  "background_color": "#f8fafc"
+}
